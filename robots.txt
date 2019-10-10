@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peijeepah.leerlosclasicos.org/sitemap.xml
